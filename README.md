@@ -1,5 +1,5 @@
 ## Project Description
-This project automates end-to-end testing for the [**Daily Finance**](https://dailyfinance.roadtocareer.net) web application to ensure essential features like user registration, password reset, item management, profile updates, and admin controls work correctly. It includes both positive and negative test cases to ensure the application's stability and reliability.
+This project automates testing for the [**Hishabee**](https://web.hishabee.business) web application, ensuring that essential features such as Login, Stock Book, and Expense Book function correctly. It includes both positive and negative test cases to verify the application's stability and reliability.
 
 ## Prerequisites
 Before running the tests, ensure you have the following set up:
@@ -82,4 +82,4 @@ https://github.com/user-attachments/assets/0fe59212-2b0e-40bf-b727-80badd55ab0b
 
 
 # ⚠️**Note**
-Running the full Gradle suite test is not possible right now because it contains a Bangla selector, which causes errors. I know there is a solution for this, but I haven’t figured it out yet. For now, I run each feature individually instead.
+Running the full Gradle suite test is not possible right now because it contains a **"Bangla"** selector, which causes errors. I know there is a solution for this, but I haven’t figured it out yet. For now, I run each feature individually instead.
