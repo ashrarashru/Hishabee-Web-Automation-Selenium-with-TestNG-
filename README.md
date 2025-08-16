@@ -1,5 +1,5 @@
 ## Project Description
-This project automates testing for the [**Hishabee**](https://web.hishabee.business) web application, ensuring that essential features such as Login, Stock Book, and Expense Book function correctly. It includes both positive and negative test cases to verify the application's stability and reliability.
+This project automates testing for the [**Hishabee**](https://web.hishabee.business/auth) web application, ensuring that essential features such as Login, Stock Book, and Expense Book function correctly. It includes both positive and negative test cases to verify the application's stability and reliability.
 
 ## Prerequisites
 Before running the tests, ensure you have the following set up:
@@ -15,8 +15,7 @@ Before running the tests, ensure you have the following set up:
 - Maven/Gradle for dependency management
 
 **Credentials:**
-- A valid Gmail account to perform and verify email-based actions
-- Admin credentials for the application, securely provided via the terminal at runtime.
+- Use a **registered account** to log in and run the tests.
 
 **Dependencies:**
 - Update the ```build.gradle``` file with required libraries such as Selenium, JUnit/TestNG, and any email API libraries.
