@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Automate Daily Finance Management">
+
+    <test name = "Admin Login">
+        <classes>
+            <class name = "Runner.LoginUserRunner"> </class>
+        </classes>
+    </test>
+
+    <test name = "Profile Update">
+        <classes>
+            <class name = "Runner.StockBookRunner"> </class>
+        </classes>
+    </test>
+
+    <test name = "Profile Update">
+        <classes>
+            <class name = "Runner.ExpenseBookRunner"> </class>
+        </classes>
+    </test>
+</suite>
